@@ -4,10 +4,8 @@
 
 Our mission is to accerate the developement of AI applications. <br/> 
     To help data science teams access and understand their data assets, and produce quality data to sucessfully deploy machine learning models.
+    Building seamless API's to allow developers develop AI applications.
+    
+You can stay up to date with the latest developments on our [Linkedin] (https://www.linkedin.com/company/quantumx.co.tz/)  or follow our [Twitter page] (https://twitter.com/QuantumX__) and for hands-on tutorials on our open source packages reach us on our [medium](https://medium.com/@mgasalucas).
 
-
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
