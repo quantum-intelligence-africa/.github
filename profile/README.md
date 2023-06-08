@@ -1,8 +1,9 @@
-## Welcome to QuantumX 👋
+## Welcome to QuantumX 
 
 
 
-Our mission is to help data science teams access and understand their data assets, and produce quality data to sucessfully deploy machine learning models.
+Our mission is to accerate the developement of AI applications. <br/> 
+    To help data science teams access and understand their data assets, and produce quality data to sucessfully deploy machine learning models.
 
 
 
