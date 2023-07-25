@@ -11,4 +11,4 @@ You can stay up to date with the latest developments on our [Linkedin](https://w
 
 <br/><br/>
 
-You can also find all about our monthly events and data & AI initiatives in our newsletter reach us at [Email](mailto:mgasa.loucat1@gmail.com).
+You can also find all about our monthly events and data & AI initiatives in our newsletter reach us at [Email](mailto:mgasa@quantumintelligence.co.tz).
