@@ -1,5 +1,6 @@
 ## Welcome to QuantumX 
 
+![Quantum (1)](https://github.com/quantum-intelligence-africa/.github/assets/88959075/260a0d56-899c-48f5-9e3d-b5ca762a9d54)
 
 
 Our mission is to accerate the developement of AI applications. <br/> 
